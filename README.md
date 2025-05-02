@@ -1,7 +1,7 @@
 <h1 align="center">Hi ✌🏻, I'm Devin Perry</h1>
 <h3 align="center">iOS Developer | Swift, Programmatic UIKit, Firebase</h3>
 
-- 🛠️ I’m currently working on **Simple Gym Log**
+- 🛠️ I’m currently working on **Simplift**
 
 - 💬 Ask me about **Swift, UIKit, Firebase**
 
